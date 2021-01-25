@@ -19,8 +19,3 @@ steps:
 
 ##7. To admin user>python manage.py createsuperuser
 
-
-
-###imp Guru Prasad and Yashas do report and submit tommorow
-
-##You need to run and make report get print out or hard copy without fail
