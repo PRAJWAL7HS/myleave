@@ -11,7 +11,7 @@ Requires python3.5+ and django==1.11.4+
 ### TO USE
 
 >- Install virtualenv pip install virtualenv<BR>
->- Clone the repository git clone https://github.com/gautamyadavs/Leave-Module.git<BR>
+>- Clone the repository
 >- Change directory and move to LeaveFusion ==> cd LeaveFusion<BR>
 >- Create a virtualenv virtualenv env<BR>
 >- Activate the virtualenv source ./env/bin/activate<BR>
